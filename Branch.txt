@@ -1,0 +1,33 @@
+BRANCH
+
+
+Branch é uma ramificação no projeto que permite que funcionalidades sejam
+desenvolvidas separadamente sem impactar funcionalidades estaveis  no projeto.
+
+comandos 
+
+git branch 
+lista as branchs
+
+git branch tamara
+cria uma branch
+
+
+git checkout master
+muda de branchs
+
+
+git checkout -b TASK-1
+cria e troca p branch
+
+
+Enviando branch para repositorio
+
+git checkout master
+
+
+git push -u origin developer
+
+
+atualizando branch
+
