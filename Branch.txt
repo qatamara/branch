@@ -29,5 +29,11 @@ git checkout master
 git push -u origin developer
 
 
-atualizando branch
+Remover branch 
+
+git branch - d nomeBranch
+
+ou git branch -D nomeBranch (força a remoção se a git branch -d nomeBranch não funcionar)
+
+
 
