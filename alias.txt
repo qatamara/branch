@@ -7,4 +7,17 @@ git config --global alias.s status
 
 git s
 
-para deletar o alias git config -- global --rese
+para deletar o alias git config -- global --unset alias.s 
+
+Remoto
+lista a url que esta no github ou bitbucket
+git remote -v
+
+Grep
+
+ajuda na listagem de branch e tags é filtro que podemos executar junto com algum comando
+git branch | grep R1
+
+git tag
+
+git tag | grep 1
