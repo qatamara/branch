@@ -1,0 +1,3 @@
+Pull Request : É uma requisição de mudança que a gente cria. As pessoasa fazem revisão do codigo antes do merge.
+
+Corta caminha : $ git commit -a -m "mensagem" (envia modificações e tambem comita)
