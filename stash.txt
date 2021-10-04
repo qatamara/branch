@@ -1,0 +1,8 @@
+stash:uso e criação
+git stash pegar as mudanças locais e salvar elas na memoria do git.
+git stash list
+
+
+git stash list 
+git stash --hard
+git stash save "mensagem"
