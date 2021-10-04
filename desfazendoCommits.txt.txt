@@ -1,3 +1,6 @@
 Desfazendo commits
 
 Para desfazer um commit localmente usa o comando git reset --hard HEAD~1(~1::significa que estou voltando 1 commit)
+
+Fetch: traz atualizações do servidor remoto para o meu repositorio local.
+git fetch
