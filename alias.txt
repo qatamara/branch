@@ -1,0 +1,10 @@
+Alias: é um comando de abreviação!
+
+ex: comando git status
+reconheça como alias
+
+git config --global alias.s status
+
+git s
+
+para deletar o alias git config -- global --rese
